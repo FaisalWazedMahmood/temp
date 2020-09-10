@@ -1,3 +1,9 @@
 Hello! 
 This is Faisal.
+<<<<<<< HEAD
 This is a Master brach.
+=======
+
+This is a new brach named as newb.
+Welcome to the new branch!
+>>>>>>> newb
