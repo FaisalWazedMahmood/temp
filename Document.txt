@@ -1,2 +1,5 @@
 Hello! 
 This is Faisal.
+
+This is a new brach named as newb.
+Welcome to the new branch!
